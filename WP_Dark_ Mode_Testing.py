@@ -271,5 +271,6 @@ def login_to_wordpress(username, password):
 
 # Test the login functionality
 if __name__ == "__main__":
+    # Give the username in the .env file
     login_to_wordpress(U_name, password)
 
