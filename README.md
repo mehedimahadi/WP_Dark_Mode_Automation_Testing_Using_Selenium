@@ -12,6 +12,8 @@ This test suite automates the testing of various features of the WordPress Dark 
 8. Enable Page Transition Animation and Change Animation Effect in the Site_Animation() function.
 9. test_dark_mode() function check the Validate Dark Mode functionality on the frontend.
 
+All the works done in the WP_Dark_ Mode_Testing.py file.
+
 ## Requirements
 
 To run this test suite, ensure you have the following installed:
