@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 
 #load the environment variable
 load_dotenv()
-U_name = os.getenv("_name")
+U_name = os.getenv("name")
 password = os.getenv("Password")
 
 
